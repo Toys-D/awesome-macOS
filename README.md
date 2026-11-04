@@ -167,6 +167,7 @@
 - [Pathly](https://pathly.sophinauta.com/) - Copy any file or folder path from Finder: full, directory, URL, or Git-relative.
 - [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - List of extra quicklook plugins to enable previewing more filetypes in the Finder.
 - [TotalFinder](http://totalfinder.binaryage.com/) - A powerful alternative to Finder.
+- [Totum Commander](https://github.com/Toys-D/TotumCommander) - Dual-pane file manager in the spirit of Total Commander, with archives opened as folders and a built-in viewer. [![Open-Source Software][OSS Icon]](https://github.com/Toys-D/TotumCommander) ![Freeware][Freeware Icon]
 - [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds useful features to Finder. ![Freeware][Freeware Icon]
 
 
